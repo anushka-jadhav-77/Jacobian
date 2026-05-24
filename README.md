@@ -69,5 +69,6 @@ https://jacobian-7w85vp5pja8wartthckckb.streamlit.app/
 
 ## 👩‍💻 Developed By
 
-- Aushka Jadhav
+ Aushka Jadhav
 - Computer Engineering student
+- Passionate about coding, Mathematics, and Creative UI Design
