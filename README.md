@@ -69,5 +69,5 @@ https://jacobian-7w85vp5pja8wartthckckb.streamlit.app/
 
 ## 👩‍💻 Developed By
 
--Aushka Jadhav
--Computer Engineering student
+- Aushka Jadhav
+- Computer Engineering student
