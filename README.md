@@ -1,4 +1,4 @@
-# 🤓 Jacobian Calculator
+#  Jacobian Calculator
 
 A beautiful Jacobian Matrix and Determinant Calculator built using Python, Streamlit, and SymPy.
 
@@ -13,7 +13,7 @@ A beautiful Jacobian Matrix and Determinant Calculator built using Python, Strea
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Streamlit
@@ -22,7 +22,7 @@ A beautiful Jacobian Matrix and Determinant Calculator built using Python, Strea
 
 ---
 
-## ▶️ Run Locally
+##  Run Locally
 
 Install requirements:
 
@@ -38,7 +38,7 @@ streamlit run app.py
 
 ---
 
-## 📚 Sample Input
+##  Sample Input
 
 ### Variables
 
@@ -61,13 +61,13 @@ x-y
 
 ---
 
-## 🌐 Live App
+##  Live App
 
 https://jacobian-7w85vp5pja8wartthckckb.streamlit.app/
 
 ---
 
-## 👩‍💻 Developed By
+##  Developed By
 
  Aushka Jadhav
 - Computer Engineering student
