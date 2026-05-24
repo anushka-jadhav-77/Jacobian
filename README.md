@@ -1,4 +1,5 @@
 💻🤓 Jacobian Calculator
+
 A beautiful and interactive Jacobian Calculator built using Python, Streamlit, and SymPy.
 
 This project helps students solve Jacobian matrix problems easily with:
