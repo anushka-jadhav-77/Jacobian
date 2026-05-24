@@ -2,14 +2,14 @@
 
 A beautiful Jacobian Matrix and Determinant Calculator built using Python, Streamlit, and SymPy.
 
-## 🚀 Features
+##  Features
 
-- 📐 Jacobian Matrix Calculation
-- ✨ Determinant Solver
-- 🧠 Answer Validation
-- 📘 Step-by-Step Hints
-- 🎨 Modern Glassmorphism UI
-- 🌌 Animated Mathematical Background
+-  Jacobian Matrix Calculation
+-  Determinant Solver
+-  Answer Validation
+-  Step-by-Step Hints
+-  Modern Glassmorphism UI
+-  Animated Mathematical Background
 
 ---
 
